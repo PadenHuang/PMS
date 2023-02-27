@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/HelloServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hwq/company/department" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hwq/company/employee" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hwq/company/init" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hwq/company/project" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hwq/company/score" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hwq/company/util/FmtEmpty.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hwq/company/util/FmtRequest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hwq/company/util/FmtUpload.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hwq/company/util/JDBCUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hwq/company/util/MD5.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hwq/company/util/PageModel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/META-INF" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/jdbc.properties" charset="UTF-8" />
+  </component>
+</project>
