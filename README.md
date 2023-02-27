@@ -1,5 +1,5 @@
 ### 绩效管理系统-PMS
-@[TOC]
+
 #### 一、项目介绍
 1. 项目背景
    该项目的开发是为了方便部门领导对员工的绩效进行直接登记，方便高效。
@@ -9,9 +9,9 @@
 
 3. 演示例图
 **登录**
-![image-20230227193022912](D:\桌面\项目-个人\PMS\img\image-20230227193022912.png) 
+![image-20230227193022912](https://github.com/PadenHuang/PMS/blob/master/img/image-20230227193022912.png) 
 **功能页面**
-![image-20230227194626652](D:\桌面\项目-个人\PMS\img\image-20230227194626652.png)     
+![image-20230227194626652](https://github.com/PadenHuang/PMS/blob/master/img/image-20230227194626652.png)     
 
 #### 二、功能
 
@@ -48,18 +48,15 @@ JDK8、Tomcat8
 │          │      └─score
 │          └─WEB-INF //配置文件
 ```
-
 #### 五、版本更新&debug
-
 **版本**
-
 - [x] 版本V1.0
 - [ ] 版本V2.0
 
 **debug**
-1.数据库连接失败 页面拿不到数据
-2.响应失效 jsp无法提交数据给servlet
-3.servlet访问失败——404`
+- [x] 1.数据库连接失败 页面拿不到数据
+- [x] 2.响应失效 jsp无法提交数据给servlet
+- [x] 3.servlet访问失败——404`
 
 
 
