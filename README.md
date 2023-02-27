@@ -9,9 +9,9 @@
 
 3. 演示例图
 **登录**
-![image-20230227193022912](D:\桌面\项目-个人\PMS\img\image-20230227193022912.png) 
+![image-20230227193022912](https://github.com/PadenHuang/PMS/blob/master/img/image-20230227194626652.png) 
 **功能页面**
-![image-20230227194626652](D:\桌面\项目-个人\PMS\img\image-20230227194626652.png)     
+![image-20230227194626652](https://github.com/PadenHuang/PMS/blob/master/img/image-20230227194626652.png)     
 
 #### 二、功能
 
